@@ -1,0 +1,88 @@
+{
+    "data" : [
+        {
+             "id" :"1",
+             "name":"Mercedes Grand Sedan",
+             "subname" :"Cheverolet",
+             "image" :"./assets/row1-car1.jpg",
+             "price" :"500"
+        },
+         {
+             "id" :"2",
+             "name":"Range Rover",
+             "subname" :"Subaru",
+             "image" :"./assets/row1-car2.jpg",
+             "price" :"600"
+        },
+         {
+             "id" :"3",
+             "name":"Cheverolet",
+             "subname" :"Cheverolet",
+             "image" :"./assets/row1-car3.jpg",
+             "price" :"400"
+        } ,
+         {
+             "id" :"4",
+             "name":"Mercedes Grand Sedan",
+             "subname" :"Cheverolet",
+             "image" :"./assets/row2-car1.jpg",
+             "price" :"500"
+        },
+         {
+             "id" :"5",
+             "name":"Range Rover",
+             "subname" :"Subaru",
+             "image" :"./assets/row2-car2.jpg",
+             "price" :"600"
+        },
+         {
+             "id" :"6",
+             "name":"Cheverolet",
+             "subname" :"Cheverolet",
+             "image" :"./assets/row2-car3.jpg",
+             "price" :"400"
+        } ,
+          {
+             "id" :"7",
+             "name":"Mercedes Grand Sedan",
+             "subname" :"Cheverolet",
+             "image" :"./assets/row3-car1.jpg",
+             "price" :"500"
+        },
+         {
+             "id" :"8",
+             "name":"Range Rover",
+             "subname" :"Subaru",
+             "image" :"./assets/row3-car2.jpg",
+             "price" :"600"
+        },
+         {
+             "id" :"9",
+             "name":"Cheverolet",
+             "subname" :"Cheverolet",
+             "image" :"./assets/row3-car3.jpg",
+             "price" :"400"
+        } ,
+          {
+             "id" :"10",
+             "name":"Mercedes Grand Sedan",
+             "subname" :"Cheverolet",
+             "image" :"./assets/row4-car1.jpg",
+             "price" :"500"
+        },
+         {
+             "id" :"11",
+             "name":"Range Rover",
+             "subname" :"Subaru",
+             "image" :"./assets/row4-car2.jpg",
+             "price" :"600"
+        },
+         {
+             "id" :"12",
+             "name":"Cheverolet",
+             "subname" :"Cheverolet",
+             "image" :"./assets/row4-car3.jpg",
+             "price" :"400"
+        } 
+    ]
+}
