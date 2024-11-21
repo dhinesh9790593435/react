@@ -1,0 +1,25 @@
+#footers{
+position: relative;
+top: 6000px;
+}
+
+
+@media screen and (max-width:500px) {
+    #footers {
+            position: relative;
+            top: 4000px;
+        }
+    #foote{
+        position: relative;
+        top: 320px;
+    }
+}
+
+
+@media (min-width:500px) and (max-width:769px) {
+    #footers{
+        position: relative;
+            top: 3700px;
+    }
+    
+}
